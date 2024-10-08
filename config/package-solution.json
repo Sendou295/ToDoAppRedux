@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "to-do-app-redux-client-side-solution",
+    "id": "4382865a-02fe-44bc-8cfc-3c1dceaaab0f",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ToDoAppRedux description"
+      },
+      "longDescription": {
+        "default": "ToDoAppRedux description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "to-do-app-redux Feature",
+        "description": "The feature that activates elements of the to-do-app-redux solution.",
+        "id": "11b17ebe-96eb-45cb-9df3-5aaa7f77d3fa",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/to-do-app-redux.sppkg"
+  }
+}
